@@ -1,3 +1,4 @@
+# Lab 1 
 # 1
 Using IDLE (Win)  or a terminal with either a MAC or Linux:
 
