@@ -1,5 +1,5 @@
 # How to use VS Code for Python and Github?
-## Step 1: Download VS Code
+## Step 1: Download + Set up VS Code
 ![VScode](./Images/VScode1.png)
 
 ## Step 2: Install Extensions
