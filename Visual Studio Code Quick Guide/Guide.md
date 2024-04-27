@@ -16,7 +16,7 @@ For example:
 ## Step 3: Install Python Software in Microsoft store
 ![VScode](./Images/VScode4.png)
 
-When using python files on VS Code, please choose the interpreter "the downloaded Python software".  
+When using python files on VS Code, please choose the interpreter the downloaded Python software.  
 
 ![VScode](./Images/VScode5.png)
 
