@@ -55,7 +55,7 @@ Lexus ---> c300
 
 # 5
 
-Using the {ython list you created in #1 and #2, iterate over the Python list and print each list item
+Using the Python list you created in #1 and #2, iterate over the Python list and print each list item
 
 # 6
 
