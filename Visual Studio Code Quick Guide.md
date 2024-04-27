@@ -3,11 +3,11 @@
 ## Step 2: Install Extensions
 ### Choose this icon
 
-### In the search bar, find the following extensions
+### In the search bar, find the following extensions + Select "Install"
 - Python (recent version: v2024.4.1)
 - GitHub Pull Requests (recent version: v0.82.1)
   
 For example:
 
 
-### Select "Install"
+
